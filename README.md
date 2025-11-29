@@ -31,7 +31,7 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 
 ## 📥 Instalación
 
-Dado que ya has creado el archivo `requirements.txt` con la dependencia `colorama`, solo necesitas ejecutar un comando para instalar las librerías necesarias:
+Para instalar la librería `colorama`, ejecute el siguiente comando:
 
 ```bash
 pip install -r requirements.txt
